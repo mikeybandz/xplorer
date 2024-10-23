@@ -23,5 +23,8 @@
 				"path": "./themes/winter-dark-color-theme.json"
 			}
 		]
+	},
+	"dependencies": {
+		"winter": "file:"
 	}
 }
